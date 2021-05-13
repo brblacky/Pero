@@ -1,19 +1,19 @@
 # Introduction
 
-![Pero](https://cdn.discordapp.com/attachments/813486700520144916/842249859641638912/1617522198598.png)
+![Pero](https://cdn.discordapp.com/attachments/813486700520144916/842250557824827442/1617519759655.png)
 
 ## Pero
 
 
 > This bot is used by more than 20,000 Discord users and more than 230 servers.
 
-Atlanta is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [Androz2091](https://github.com/Androz2091).
+Pero is a Multipopose Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) 
 
 ### Features
 
 #### Complete Bot
 
-Atlanta offers \(non-exhaustive list\):
+Pero offers \(non-exhaustive list\):
 
 * ✉️ Support for commands in direct messages
 * 🇫🇷 Support for translations \(illimited languages\)
@@ -21,7 +21,7 @@ Atlanta offers \(non-exhaustive list\):
 * 😀 Commands made pleasant thanks to the many emojis
 * 🗳️ Support for Discordbots.org votes with rewards
 
-Atlanta also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
+Pero also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
 
 #### Many commands
 
@@ -39,10 +39,9 @@ Pero has a lot of features, with **7 main categories**:
 
 ### Links
 
-* [Commands List](https://www.atlanta-bot.fr/commands)
-* [Installation Guide](https://www.atlanta-bot.fr/installation)
+* [Commands List](https://pero.gitbook.io/pero/commands)
 * [F.A.Q](https://www.atlanta-bot.fr/faq/)
-* [Discord](https://discord.atlanta-bot.fr)
+* [Discord](https://discord.gg/wMQDQKKS2D)
 * [Twitter](https://twitter.com/AtlantaBot)
 * [Github](https://github.com/AtlantaBot)
 * [Dashboard](https://dashboard.atlanta-bot.fr)
@@ -54,5 +53,5 @@ And if you have a question, please ask it in the [Discord server](https://discor
 
 ### License
 
-Atlanta is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
+Pero is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
 
