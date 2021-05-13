@@ -1,10 +1,9 @@
 # Introduction
 
-![Atlanta](https://i.goopics.net/lEENx.png)
+![Pero](https://cdn.discordapp.com/attachments/813486700520144916/842249859641638912/1617522198598.png)
 
-## Atlanta
+## Pero
 
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.atlanta-bot.fr) [![](https://discordbots.org/api/widget/status/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897) [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs) [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/androz2091) [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/androz2091)
 
 > This bot is used by more than 20,000 Discord users and more than 230 servers.
 
@@ -26,7 +25,7 @@ Atlanta also adds **a new mention** like @everyone and @here, the `@someone`, wh
 
 #### Many commands
 
-Atlanta has a lot of features, with **7 main categories**:
+Pero has a lot of features, with **7 main categories**:
 
 * 👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
 * 🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 
@@ -37,29 +36,6 @@ Atlanta has a lot of features, with **7 main categories**:
 * 👑 **Owner**: `eval`, `getinvite`, `servers-list` and **2** more!
 
 [See the full commands list](https://www.atlanta-bot.fr/commands)
-
-#### A powerful Dashboard
-
-Atlanta has its own dashboard which also offers many features! The dashboard runs with Express and EJS!
-
-![](https://zupimages.net/up/19/26/m3wb.png) ![](https://zupimages.net/up/19/26/4mf0.png)
-
-You can directly **edit your configuration**, **manage your servers**, **view your statistics**, **modify your profile** and much more!
-
-> Find the code [here](https://github.com/atlantabot/atlanta-dashboard). Documentation will be available soon!
-
-### Installation
-
-#### Non-customized version
-
-If you don't want to edit the code of the bot, a permanent online version is available, which you can invite to your own Discord!
-
-[![Discord Bots](https://discordbots.org/api/widget/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
-
-#### Customized version
-
-If you want to edit the bot's code and host it on your machine, it's possible!  
-You must follow the [installation guide](https://www.atlanta-bot.fr/installation/) to properly install it! Don't worry, it's fast and simple if you follow the guide!
 
 ### Links
 
