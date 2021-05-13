@@ -14,7 +14,7 @@ Auto moderation automatically removes Discord invitations. This prevents members
 ### The bot does not respond after sending a command
 
 Check that the bot has the permissions to send messages and try again.
-If it still doesn't work, it's a bug, join the [support server](https://discord.atlanta-bot.fr)!
+If it still doesn't work, it's a bug, join the [support server](https://discord.gg/wMQDQKKS2D)!
 
 ## Any more questions? Join the [support server](https://discord.gg/wMQDQKKS2D)!
 
