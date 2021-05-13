@@ -42,9 +42,6 @@ Pero has a lot of features, with **7 main categories**:
 * [Commands List](https://pero.gitbook.io/pero/commands)
 * [F.A.Q](https://www.atlanta-bot.fr/faq/)
 * [Discord](https://discord.gg/wMQDQKKS2D)
-* [Twitter](https://twitter.com/AtlantaBot)
-* [Github](https://github.com/AtlantaBot)
-* [Dashboard](https://dashboard.atlanta-bot.fr)
 
 ### Contributing
 
