@@ -1,6 +1,6 @@
 # Introduction
 
-![Pero](https://cdn.discordapp.com/attachments/813486700520144916/842250557824827442/1617519759655.png)
+![Pero](https://cdn.discordapp.com/attachments/649085622702833664/842374606409039922/20210513_174532.png)
 
 ## Pero
 
